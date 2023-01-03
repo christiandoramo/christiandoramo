@@ -3,7 +3,9 @@
 ## [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsCbJGRgkzhnJPxJtdkqLXsfMvmcncrwJbrvfhZmDcCmRkjvcbRGZLmllvNvpBScsDNclMml) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.google.com/)<a href="https://christiandoramo.github.io/"> <img src="https://wowmoron.files.wordpress.com/2013/10/github.png" style="width: 40px"></a>
 
 
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christiandoramo&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christiandoramo&langs_count=8&theme=radical)](https://github.com/christiandoramo/github-readme-stats)
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christiandoramo&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christiandoramo&langs_count=8&theme=radical)](https://github.com/christiandoramo/github-readme-stats)
 
 ## Tecnologias
 ### <b>Estudando 
