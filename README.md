@@ -1,9 +1,9 @@
 # Olá, eu sou o Christian!  <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" width="50" height = "50" alt = "aceno">
 <a target="_blank" href="https://christiandoramo.github.io/"><img title="https://christiandoramo.github.io/" style="width: 6rem" src="https://wowmoron.files.wordpress.com/2013/10/github.png"></a> <a title="https://www.linkedin.com/in/christian-oliveira-299795260/" target="_blank" href="https://www.linkedin.com/in/christian-oliveira-299795260/"><img style="width: 6.5rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <img style="width: 6.5rem" title="christiandoramo@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
-![Christian's GitHub stats](https://christiandoramo-readme.vercel.app/api?username=christiandoramo&show_icons=true&theme=radical)
+![Christian's GitHub stats](https://christiandoramo-readme-uzi8.vercel.app/api?username=christiandoramo&show_icons=true&theme=radical)
 
-![Top Langs](https://christiandoramo-readme.vercel.app/api/top-langs/?username=christiandoramo&langs_count=8&theme=radical)
+![Top Langs](https://christiandoramo-readme-uzi8.vercel.app/api/top-langs/?username=christiandoramo&langs_count=8&theme=radical)
 
 ## Tecnologias
 ### <b>Aprendendo
