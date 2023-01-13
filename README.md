@@ -4,7 +4,7 @@
 ![Christian's GitHub stats](https://christiandoramo-readme-uzi8.vercel.app/api?username=christiandoramo&show_icons=true&theme=radical)
 
 ![Top Langs](https://christiandoramo-readme-uzi8.vercel.app/api/top-langs/?username=christiandoramo&langs_count=8&theme=radical)
-
+![Christian's GitHub stats](https://christiandoramo-readme-uzi8.vercel.app/api?username=christiandoramo&count_private=false)
 ## Tecnologias
 ### <b>Aprendendo
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
