@@ -15,7 +15,7 @@
 ### Contatos
 
 <br>
-<a href="href=mailto:christiandoramo@gmail.com"><img align="center" alt="Gmail" height="30" width="30" title="christiandoramo@gmail.com" alt = "christiandoramo@gmail.com" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"></a>
+<a href="mailto:christiandoramo@gmail.com"><img align="center" alt="Gmail" height="30" width="30" title="christiandoramo@gmail.com" alt = "christiandoramo@gmail.com" src="https://cdn-icons-png.flaticon.com/512/888/888853.png"></a>
 <a title="https://www.linkedin.com/in/christian-oliveira-299795260/" target="_blank" href="https://www.linkedin.com/in/christian-oliveira-299795260/"><img align="center" alt="linkedin" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
 <a target="_blank" href="https://christiandoramo.github.io/" style="font-size: 16px; text-align: center"><img align="center" alt="github.io" height="30" width="30" title="https://christiandoramo.github.io" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
 <a href="https://web.whatsapp.com/send?phone=5581983675181" target="_blank"><img align="center" alt="whatsapp" height="30" width="30" title="whatsapp" src="https://cdn-icons-png.flaticon.com/512/124/124034.png?w=360"></a>
