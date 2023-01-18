@@ -1,24 +1,6 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-<style type="text/css">
-   .tecnologias img{
-    margin: 0 13px;
-  }
-    .contatos img{
-    margin: 0 12px;
-  }
-  *{
-    font-family: 'Poppins', sans-serif;
-  }
-</style>
-
-
 # Olá! <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" width="35" height = "35" alt = "aceno">
 
-
 ![Top Langs](https://christiandoramo-readme-uzi8.vercel.app/api/top-langs/?username=christiandoramo&langs_count=8&theme=radical)
-
 
 <div class = "tecnologias" style="display: inline_block">
 
