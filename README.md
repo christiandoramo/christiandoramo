@@ -6,9 +6,7 @@
 
 ### Interesses
 
-<br>
-  <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Js" height="30" width="30" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg"> <img align="center" alt="Node.JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> <img align="center" alt="React.JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Unity" height="30" width="30" src="https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec">
-<br><br></div>
+<br><img title="HTML5" align="center" alt="HTML5" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img title="CSS3" align="center" alt="CSS3"height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img title="JS" align="center" alt="JS" height="30" width="30" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg"> <img title="NODE.JS" align="center" alt="NODE.JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> <img title="REACT" align="center" alt="REACT" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img title="UNITY" align="center" alt="UNITY" height="30" width="30" src="https://preview.redd.it/81nwobjayd181.png?width=512&format=png&auto=webp&s=027cac2b3ddd6f7b3f5e60a783706d1d0e8151ec"><br><br></div>
 
 <div class = "contatos" style="display: inline_block">
 
