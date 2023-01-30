@@ -1,10 +1,12 @@
 # Olá! <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" width="35" height = "35" alt = "aceno">
 
+![Christian's wakatime stats](https://github-readme-stats-christiandoramo.vercel.app/api/wakatime?username=christiandoramo&langs_count=8&theme=radical))
 ![Top Langs](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact)
 
 <div class = "tecnologias" style="display: inline_block">
 
-### Interesses
+### Tecnologias
 
 <br><img title="HTML5" align="center" alt="HTML5" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img title="CSS3" align="center" alt="CSS3" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img title="JS" align="center" alt="JS" height="30" width="30" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg"> <img title="NODE.JS" align="center" alt="NODE.JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> <img title="REACT" align="center" alt="REACT" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img title="UNREAL" align="center" alt="UNREAL" height="30" width="30" src="https://i.pinimg.com/originals/8d/8e/7d/8d8e7dae5de37c62461aab48d7f3f5e7.png"><br><br></div>
 
