@@ -1,8 +1,6 @@
 # Olá! <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" width="35" height = "35" alt = "aceno">
 
-![Christian's wakatime stats](https://github-readme-stats-christiandoramo.vercel.app/api/wakatime?username=christiandoramo&langs_count=8&theme=radical))
-![Top Langs](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&langs_count=8&theme=radical)
-![Top Langs](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact)
+![Top Langs](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact&langs_count=8&theme=radical)
 
 <div class = "tecnologias" style="display: inline_block">
 
