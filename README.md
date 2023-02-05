@@ -1,4 +1,4 @@
-# Olá! <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" width="35" height = "35" alt = "aceno">
+# Hey there! I am using Github <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" width="35" height = "35" alt = "aceno">
 
 <hr>
 
