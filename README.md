@@ -1,7 +1,3 @@
-
-# Hey there! I am using *Github*
-:house_with_garden: :house: :house_with_garden::houses: :fire: :dragon: :hole:
-
 ![Top Langs](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact&langs_count=12&theme=highcontrast)
 
 <div class = "tecnologias" style="display: inline_block">
