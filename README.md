@@ -12,7 +12,7 @@
  
 <hr>
 <br>
-<img title="HTML5" align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img title="CSS3" align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img title="JS" align="center" alt="JS" height="40" width="40" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg"> <img title="REACT" align="center" alt="REACT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></div>
+<img title="HTML5" align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img title="CSS3" align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img title="JS" align="center" alt="JS" height="40" width="40" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg"> <img title="REACT" align="center" alt="REACT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img title="PYTHON" align="center" alt="PYTHON" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </div>
 
 <div class = "contatos" style="display: inline_block">
 <br><br>
