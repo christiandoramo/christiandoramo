@@ -1,7 +1,7 @@
 <br>
 <div align="center"> 
     
-![Top Langs](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact&langs_count=12&theme=highcontrast)   
+![Top Langs](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact&langs_count=20&theme=highcontrast)   
 ![Snake animation](https://github.com/christiandoramo/christiandoramo/blob/output/github-contribution-grid-snake.svg)
     
 <br>
