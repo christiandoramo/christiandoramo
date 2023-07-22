@@ -3,12 +3,12 @@
 
 <a href="https://github.com/christiandoramo/github-readme-stats">
     
-  ![Top 10 Linguagens](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact&langs_count=20&theme=highcontrast) 
+  ![Top 10 Linguagens](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact&langs_count=16&theme=great-gatsby) 
   
 </a>
 <a href="https://github.com/christiandoramo/convoychat">
     
-  ![GitHub Status](https://github-readme-stats.vercel.app/api?username=christiandoramo&show_icons=true&theme=highcontrast)
+  ![GitHub Status](https://github-readme-stats.vercel.app/api?username=christiandoramo&show_icons=true&theme=great-gatsby)
   
 </a>
     
