@@ -75,19 +75,21 @@
 
 <br>
 
-## Contacts
+## Contacts 🍷🗿
 
 <br>
 
 <a href='mailto:christiandoramo@gmail.com?subject="[GITHUB] - Recado"'><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href='https://www.linkedin.com/in/christian-oliveira-299795260'><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href='https://t.me/christiandoramo'><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-
+<a href='https://christiandoramo.github.io/'>  <img alt="Static Badge" src="https://img.shields.io/badge/Google-chrome?style=for-the-badge&logo=Google-chrome&logoColor=gold&label=Search%20me%20on&labelColor=black&color=black">
+</a>
 <br>
+
 <div align='center'>
 <a href="https://github.com/christiandoramo/github-readme-stats">
     
-  ![](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact&langs_count=16&theme=great-gatsby) 
+  ![status](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact&langs_count=16&theme=great-gatsby) 
   
 </a>
 <a href="https://github.com/christiandoramo/convoychat">
