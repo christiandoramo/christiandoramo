@@ -1,28 +1,32 @@
-<div align="left" style="font-family:'Roboto';">
+<div align="left" style="font-family:'Roboto, sans-serif';">
 
 <br>
+<div align='center'>
 
-### 🌞 Hi there, I'm Christian Oliveira 🐒
+# 🌞 Hi there, I'm Christian Oliveira 🐒
 
-<br>
+![Gif octodec](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
 
-
-#### About
-
-<br>
-
-
-
-I'm Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/))
-
+</div>
 <br>
 
 
-#### Current Stack
+## About
 
 <br>
 
-- 📱 Front end 🎨
+
+### I'm Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/))
+
+
+<br>
+
+
+## Current Stack
+
+<br>
+
+ - ## 📱 Front end 🎨
 
 <br>
 
@@ -31,7 +35,7 @@ I'm Web Developer. And, I'm studying web development at [Rocketseat](https://www
 
 <br>
 
-- 💻 Back end 📡
+- ## 💻 Back end 📡
 
 <br>
 
@@ -42,7 +46,7 @@ I'm Web Developer. And, I'm studying web development at [Rocketseat](https://www
 <br>
 
 
-- 🔧 Testing 🐛
+- ## 🔧 Testing 🐛
 
 <br>
 
@@ -52,7 +56,7 @@ I'm Web Developer. And, I'm studying web development at [Rocketseat](https://www
 <br>
 
 
-- 🌐 Others 🗃️
+- ## 🌐 Others 🗃️
 
 <br>
 
@@ -63,7 +67,7 @@ I'm Web Developer. And, I'm studying web development at [Rocketseat](https://www
 <br>
 
 
-- 💥 Hobbie 🔫
+- ## 💥 Hobbie 🔫
 
 <br>
 
@@ -71,7 +75,7 @@ I'm Web Developer. And, I'm studying web development at [Rocketseat](https://www
 
 <br>
 
-#### Contacts
+## Contacts
 
 <br>
 
@@ -80,7 +84,7 @@ I'm Web Developer. And, I'm studying web development at [Rocketseat](https://www
 <a href='https://t.me/christiandoramo'><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <br>
-
+<div align='center'>
 <a href="https://github.com/christiandoramo/github-readme-stats">
     
   ![](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact&langs_count=16&theme=great-gatsby) 
@@ -91,7 +95,8 @@ I'm Web Developer. And, I'm studying web development at [Rocketseat](https://www
   ![GitHub Status](https://github-readme-stats.vercel.app/api?username=christiandoramo&show_icons=true&theme=great-gatsby)
   
 </a>
-
+ </div>
  </div>
 
+<br>
 
