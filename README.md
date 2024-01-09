@@ -85,6 +85,9 @@
 <a href='https://christiandoramo.github.io/'>  <img alt="Static Badge" src="https://img.shields.io/badge/Google-chrome?style=for-the-badge&logo=Google-chrome&logoColor=gold&label=Search%20me%20on&labelColor=black&color=black">
 </a>
 <br>
+<br>
+<br>
+<br>
 
 <div align='center'>
 <a href="https://github.com/christiandoramo/github-readme-stats">
