@@ -3,9 +3,7 @@
 <br>
 <div align='center'>
 
-# 🌞 Hi there, I'm Christian Oliveira 🐒
-
-![Gif octodec](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
+# Hi there, I'm Christian Oliveira
 
 </div>
 <br>
@@ -26,7 +24,7 @@
 
 <br>
 
- - ## 📱 Front end 🎨
+ - ## 📱 Front end
 
 <br>
 
@@ -35,7 +33,7 @@
 
 <br>
 
-- ## 💻 Back end 📡
+- ## 💻 Back end
 
 <br>
 
@@ -46,7 +44,7 @@
 <br>
 
 
-- ## 🔧 Testing 🐛
+- ## 🔧 Testing
 
 <br>
 
@@ -56,7 +54,7 @@
 <br>
 
 
-- ## 🌐 Others 🗃️
+- ## 🌐 Others
 
 <br>
 
@@ -67,7 +65,7 @@
 <br>
 
 
-- ## 💥 Hobbie 🔫
+- ## 💥 Hobbie
 
 <br>
 
@@ -75,7 +73,7 @@
 
 <br>
 
-## Contacts 🍷🗿
+## Contacts
 
 <br>
 
@@ -92,12 +90,12 @@
 <div align='center'>
 <a href="https://github.com/christiandoramo/github-readme-stats">
     
-  ![status](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact&langs_count=16&theme=great-gatsby) 
+  ![status](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact&langs_count=16&theme=transparent) 
   
 </a>
 <a href="https://github.com/christiandoramo/convoychat">
     
-  ![GitHub Status](https://github-readme-stats.vercel.app/api?username=christiandoramo&show_icons=true&theme=great-gatsby)
+  ![GitHub Status](https://github-readme-stats.vercel.app/api?username=christiandoramo&show_icons=true&theme=transparent)
   
 </a>
  </div>
