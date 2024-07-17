@@ -2,19 +2,15 @@
  
 # Hi there, I'm Christian Oliveira 👋
 
-<div align="left">
-
-## About
-
-</div>
-
-I'm Computer Science student and a web developer. I'm studying C.S. in UFRPE, and web development at [Rocketseat](https://www.rocketseat.com.br/))
+- Computer science student in UFRPE
+- Studying web development at Rocketseat
+- I spend time developing games with Unreal Engine
 
 <div align="left">
 
-## Current Stack
+## Current stack
 
- - ## 📱 Front end
+- 📱 Front end
 
 </div>
 
@@ -22,7 +18,7 @@ I'm Computer Science student and a web developer. I'm studying C.S. in UFRPE, an
 
 <div align="left">
 
-- ## 💻 Back end
+- 💻 Back end
 
 </div>
 
@@ -30,7 +26,7 @@ I'm Computer Science student and a web developer. I'm studying C.S. in UFRPE, an
 
 <div align="left">
 
-- ## 🔧 Tests
+- 🔧 Tests
 
 </div>
 
@@ -38,7 +34,7 @@ I'm Computer Science student and a web developer. I'm studying C.S. in UFRPE, an
 
 <div align="left">
 
-- ## 🌐 Others
+- 🌐 Others
 
 </div>
 
@@ -47,33 +43,27 @@ I'm Computer Science student and a web developer. I'm studying C.S. in UFRPE, an
 
 <div align="left">
 
-- ## 💥 Games
+## Github status
 
-</div>
-
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-<div align="left">
-
-## Github Most Used Languages
+Github Most Used Languages
 
 </div>
 
 <a href="https://github.com/christiandoramo/github-readme-stats">
     
-  ![status](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact&langs_count=16&theme=transparent) 
+  ![Most used languages](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact&langs_count=16&theme=transparent) 
   
 </a>
 
 <div align="left">
 
-## Github Status
+Github Stats
 
 </div>
 
 <a href="https://github.com/christiandoramo/convoychat">
     
-  ![GitHub Status](https://github-readme-stats.vercel.app/api?username=christiandoramo&show_icons=true&theme=transparent)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christiandoramo&show_icons=true&theme=transparent)
   
 </a>
 
