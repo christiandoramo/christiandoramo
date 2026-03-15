@@ -78,4 +78,9 @@ Github Stats
 <a href='https://christiandoramo.github.io/'>  <img alt="Static Badge" src="https://img.shields.io/badge/Google-chrome?style=for-the-badge&logo=Google-chrome&logoColor=gold&label=Search%20me%20on&labelColor=black&color=black">
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/christiandoramo/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://github.com/christiandoramo/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
