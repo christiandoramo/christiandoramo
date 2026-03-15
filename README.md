@@ -50,7 +50,7 @@ Github Most Used Languages
 
 <a href="https://github.com/christiandoramo/github-readme-stats">
     
-![Most used languages](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact&langs_count=16&theme=transparent&hide=Jupyter%20Notebook,Mathematica,ShaderLab,HTML,CSS)
+![Most used languages](https://github-readme-stats-christiandoramo.vercel.app/api/top-langs/?username=christiandoramo&layout=compact&langs_count=16&theme=transparent&hide=Jupyter%20Notebook,Mathematica,ShaderLab,HTML,CSS,HLSL)
   
 </a>
 
